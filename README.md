@@ -4,7 +4,7 @@
 - 🤔 With my love for building solutions to help businesses, I began an adventure into Microsoft Excel, SQL Server and Power BI
 - 🤔 I’m open for Entry Level Data Analyst Role, currently searching for a Data Analyst role.
 - 💬 Ask me about anything on Data and I will respond immediately. However, PowerBI is my favourite Data Analytic tool
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/lasheajeboriogbon)
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/lasheajeboriogbon)
 - ⚡ Fun fact: I love to speak publicly and guide youths into pursuing a career in tech.
 
 <!---
